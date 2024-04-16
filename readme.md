@@ -1,6 +1,7 @@
-# Bookstore Web Application
+# Bookstore Web Application - Task
 
-Welcome to the Bookstore Web Application! This application allows users to browse books, add them to their shopping cart, and proceed to checkout.
+This project showcases expertise in PHP programming through the development of a web application for an online bookstore. It includes essential features such as browsing books, adding them to the shopping cart, and proceeding to checkout. The codebase emphasizes best practices in PHP development, including secure database connectivity, efficient CRUD operations, and clear code organization for easy maintenance and scalability.
+
 
 ## Installation
 
@@ -30,7 +31,7 @@ Follow these steps to install the application:
 
 6. **Access the Application**:
 
-- Open your web browser and navigate to the URL where the application is hosted (e.g., http://localhost/bookstore).
+- Open your web browser and navigate to the URL where the application is hosted (e.g., http://localhost/bookshop-task).
 
 ## Usage
 
