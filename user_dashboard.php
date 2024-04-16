@@ -19,5 +19,7 @@ if (!isset($_SESSION['username']) || $_SESSION['role'] !== 'user') {
     <a href="logout.php">Logout</a>
     <h1>Welcome, <?php echo $_SESSION['username']; ?>!</h1>
     <p>This is the user dashboard.</p>
+
+    <a href="view_books.php">View Books</a>
 </body>
 </html>
