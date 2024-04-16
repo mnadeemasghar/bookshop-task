@@ -48,3 +48,8 @@ Predefined users and their roles are:
 - Delete books: Use the "Delete" link next to each book to delete it from the database.
 
 ### User
+- Browse books: Visit the homepage to view the list of available books.
+
+- Add books to cart: Discover a book you love? Easily add it to your cart with a simple click, ensuring you don't miss out on your favorite titles.
+
+- Place orders: Ready to get your hands on your selected books? Simply proceed to place your order.
