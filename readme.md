@@ -34,7 +34,11 @@ Follow these steps to install the application:
 - Open your web browser and navigate to the URL where the application is hosted (e.g., http://localhost/bookshop-task).
 
 ## Usage
-
+Predefined users and their roles are:
+- username: user1, password:password, role:user
+- username: user2, password:password, role:user
+- username: admin, password:password, role:admin
+### Admin
 - Browse books: Visit the homepage to view the list of available books.
 
 - Add books: Click on the "Add Book" link to add a new book to the database.
@@ -42,3 +46,5 @@ Follow these steps to install the application:
 - Update books: Use the "Update" link next to each book to update its details.
 
 - Delete books: Use the "Delete" link next to each book to delete it from the database.
+
+### User
